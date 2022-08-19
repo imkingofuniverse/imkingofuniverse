@@ -5,6 +5,8 @@
 
 <body style = "font-family:Comic Sans MS;" >An avid learner, tech enthusiast aspiring for a challenging role in Software Industry where I can contribute my skills and knowledge that helps in personal and professional advancement. Passionate to understand and build innovative mobile and web services.</body>
 
+<font face = "Comic sans MS" size =" 5">An avid learner, tech enthusiast aspiring for a challenging role in Software Industry where I can contribute my skills and knowledge that helps in personal and professional advancement. Passionate to understand and build innovative mobile and web services.</font><br />
+
 ****************
 
 
