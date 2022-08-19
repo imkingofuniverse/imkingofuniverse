@@ -5,6 +5,9 @@ Hi there 👋, I’m Sri Sai Resu - aka imkingofuniverse
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkingofuniverse&layout=compact)](https://github.com/yushi1007)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imkingofuniverse)](https://git.io/streak-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
