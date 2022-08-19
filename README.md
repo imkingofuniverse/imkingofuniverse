@@ -1,4 +1,4 @@
-👋 Hi, I’m Sri Sai Resu
+Hi there 👋, I’m Sri Sai Resu - aka imkingofuniverse
 
 ![](https://komarev.com/ghpvc/?username=imkingofuniverse&label=PROFILE+VIEWS)
 
