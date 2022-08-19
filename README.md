@@ -2,7 +2,7 @@
 
 ****************
 <h2 align="left">Intro</h2>
-<h3 align="left">An avid learner, tech enthusiast aspiring for a challenging role in Software Industry where I can contribute my skills and knowledge that helps in personal and professional advancement. Passionate to understand and build innovative mobile and web services.</h3>
+<body style = "font-family:Comic Sans MS;" >An avid learner, tech enthusiast aspiring for a challenging role in Software Industry where I can contribute my skills and knowledge that helps in personal and professional advancement. Passionate to understand and build innovative mobile and web services.</body>
 
 ****************
 
