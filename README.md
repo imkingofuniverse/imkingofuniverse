@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sri Sai Resu
 
-![](https://komarev.com/ghpvc/?username=imkingofuniverse&label=PROFILE+VIEWS)
+- ![](https://komarev.com/ghpvc/?username=imkingofuniverse&label=PROFILE+VIEWS)
 
 
 <!---
