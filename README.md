@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Sri Sai Resu
+👋 Hi, I’m Sri Sai Resu
 
-- ![](https://komarev.com/ghpvc/?username=imkingofuniverse&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=imkingofuniverse&label=PROFILE+VIEWS)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkingofuniverse&layout=compact)](https://github.com/yushi1007)
 
 <!---
 imkingofuniverse/imkingofuniverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
